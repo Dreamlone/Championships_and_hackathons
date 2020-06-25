@@ -2,3 +2,4 @@
 The repository contains the results of work on projects at championships and hackathons
 
 * Чемпионат Changellenge Cup IT 2020 - Финалисты чемпионата, март 2020
+* Летняя школа NCAR AI4ESS, хакатон, июнь 2020
